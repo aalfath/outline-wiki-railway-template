@@ -1,5 +1,7 @@
 # Outline on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/outline-1?utm_medium=integration&utm_source=button&utm_campaign=outline)
+
 A one-click Railway template for [Outline](https://github.com/outline/outline), the open-source team wiki and knowledge base.
 
 **Version:** Outline 1.13.0 (`outlinewiki/outline:1.13.0@sha256:4583bb244dbb4464d8a632c75044d3b2f9fe44382b6a4b84d97995f473b823e4`)
